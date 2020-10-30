@@ -5,6 +5,9 @@
 
 <!-- ### Hi there 👋
 
+doc  > https://github.com/anuraghazra/github-readme-stats#demo
+doc github > https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme
+
 ![Airqz's github stats](https://github-readme-stats.vercel.app/api?username=airqz&show_icons=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
