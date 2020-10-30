@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-![Airqz's github stats](https://github-readme-stats.vercel.app/api?username=airqzmufc7&show_icons=true)
+![Airqz's github stats](https://github-readme-stats.vercel.app/api?username=airqz&show_icons=true)
 
-Here are some ideas to get you started:
-
-- 💬 Ask me about ...
+ 💬 Ask me about ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=airqz&layout=compact)](https://github.com/airqz/github-readme-stats)
 
